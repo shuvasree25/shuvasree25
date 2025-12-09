@@ -1,5 +1,5 @@
 ### Hi, I'm Shuvasree 👋
-# ✨ About Me:<br><br>✨ Aspiring to become a  Data Analyst and passionate about transforming raw data into  meaningful insights <br><br>💻 Skilled in: <br>• **SQL • Power BI • Python • Excel**<br><br> 📈 love working on  dashboards, uncovering insights, and presenting data in a visually compelling way  <br><br>🌱 Currently learning and growing in:  <br>**Advanced SQL** & **Power BI DAX**  <br><br>
+✨Aspiring to become a  Data Analyst and passionate about transforming raw data into  meaningful insights <br><br>💻 Skilled in: <br>• **SQL • Power BI • Python • Excel**<br><br> 📈 love working on  dashboards, uncovering insights, and presenting data in a visually compelling way  <br><br>🌱 Currently learning and growing in:  <br>**Advanced SQL** & **Power BI DAX**  <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shuvasree Ray) 
