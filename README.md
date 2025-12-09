@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+👋 Hi, I'm Shuvasree Ray
+📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python
+🚀 About Me
 
-<!--
-**shuvasree25/shuvasree25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated and detail-oriented Data Analyst (Fresher) passionate about discovering insights hidden in data. I enjoy cleaning messy datasets, building dashboards, and creating data stories that help teams make better decisions.
 
-Here are some ideas to get you started:
+💡 Currently building real-world data projects to strengthen my analytics skills
+💼 Open to Data Analyst / Business Analyst roles
+🎯 Strong focus on problem-solving, data visualization, and KPI storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+Languages & Analysis
+
+🌐 🐍 📊
+
+Visualization & BI
+
+📈 📉
+
+Other Tools
+
+💻 📙 🧩
+
+
