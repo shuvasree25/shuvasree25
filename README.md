@@ -1,5 +1,5 @@
 ### Hi, I'm Shuvasree 🌸
-Data Analyst who loves turning raw data into meaningful insights 
+Data Analyst Turning Raw Data into Meaningful Insights 
 ### About Me
 I turn raw, messy data into meaningful insights that support better decisions
 
@@ -24,5 +24,5 @@ Open to Data Analyst opportunities and professional collaborations
 
 <p> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
 
-### Socials
-<p> <a href="https://www.linkedin.com/in/shuvasree-ray-9a58a3225/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  </a> <a href="mailto:shuvasree.ray99@.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+### 🌐 Socials
+<p> <a href="https://www.linkedin.com/in/shuvasree-ray-9a58a3225/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shuvasree.ray99@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
