@@ -9,7 +9,7 @@ Build interactive dashboards and reports to communicate insights clearly
 
 Explore trends, patterns, and business questions through data
 
-Continuously strengthen my skills in Advanced SQL and Power BI DAX
+Continuously strengthening my skills in Advanced SQL and Power BI DAX
 
 Open to Data Analyst opportunities and professional collaborations
 
